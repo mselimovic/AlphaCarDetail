@@ -1,0 +1,9 @@
+.social-custom{
+  width: 50px;
+  position: fixed;
+  bottom: 0px;
+  left: 40px;
+  right: auto;
+  z-index: 10;
+  color:red;
+}
