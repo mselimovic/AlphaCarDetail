@@ -11,6 +11,7 @@
 .social-custom li img {
   height: 30px;
   margin: 10px;
+  
 }
 .social-custom::after{
     content: "";
@@ -18,13 +19,13 @@
     width: 1px;
     height: 150px;
     margin: 0px auto;
-    background-color: #0092ca;
+    background-color:#333;
     bottom: 0;
 }
 .social-custom li img:hover {
   animation:shake 0.3s;
   cursor: pointer;
-  filter:saturate(6);
+  filter:drop-shadow(0 0 0.1rem black);
   
 }
 @keyframes shake{
@@ -35,4 +36,11 @@
   100%{transform: translate(0px,0px) rotate(0deg);}
 }
 
-
+@media only screen and (max-width: 900px) {
+  .social-custom {
+    display: none;
+  }
+}
+.about-props {
+  background:#1dacd6;
+}

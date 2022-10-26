@@ -7694,7 +7694,7 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   /* color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
-  color:#0092ca;
+  color:#0baccc;
 }
 
 .text-secondary {
@@ -11397,7 +11397,7 @@ header.masthead {
   text-align: left;
   color: #fff;
   /* background-color: #000; */
-  background: url("../assets/img/fabe-collage-xR8Xj3Pq__M-unsplash\ \(3\).jpg")no-repeat center center/cover;
+  background: url("../assets/img/fabe-collage-xR8Xj3Pq__M-unsplash.jpg")no-repeat center center/cover;
   height: 100vh;
   position: relative;
   background-attachment: scroll;
@@ -11600,7 +11600,7 @@ header.masthead .masthead-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ffc800;
+  background-color: black;
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
