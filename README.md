@@ -12,6 +12,8 @@ The Website is mainly developed to show previous work to potential clients and t
 
 **Webpage:**
  [www.alphacardetail.com](https://www.alphacardetail.com) <img src="https://www.alphacardetail.com/assets/favicon.ico" width="25"> 
+ 
+<img src="https://www.alphacardetail.com/assets/img/upworkdevices2.png" width="800">
 
 ## Main colors & design
 
