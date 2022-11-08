@@ -13,7 +13,7 @@ The Website is mainly developed to show previous work to potential clients and t
 **Webpage:**
  [www.alphacardetail.com](https://www.alphacardetail.com) <img src="https://www.alphacardetail.com/assets/favicon.ico" width="25"> 
  
-<img src="https://www.alphacardetail.com/assets/img/upworkdevices2.png" width="800">
+
 
 ## Main colors & design
 
@@ -22,6 +22,7 @@ The Website is mainly developed to show previous work to potential clients and t
 | Blue | ![#0092ca](https://placehold.co/15x15/0092ca/0092ca.png) `#0092ca`|
 | Gray | ![#333333](https://placehold.co/15x15/333333/333333.png) `#333333` |
 | Yellow | ![#cca000](https://placehold.co/15x15/cca000/cca000.png) `#cca000` |
+<img src="https://www.alphacardetail.com/assets/img/upworkdevices2.png" width="700">
 
 **Logo v1:**
 
