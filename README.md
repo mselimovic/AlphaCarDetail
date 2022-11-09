@@ -1,7 +1,7 @@
 
 # Alpha Car Detail
 
-This project was developed for a small business company. Project includes the design of the website & logo, businezs cards, video introduction and some other visual elements. 
+This project was developed for a small business company. Project includes the design of the website & logo, business cards, video introduction and some other visual elements. 
 The Website is mainly developed to show previous work to potential clients and to provide necessary information to new customers. 
 
 **Technologies used:**
